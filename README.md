@@ -1,3 +1,3 @@
 # ar_kickboard
 
-ar kickboard 모델링
+ar kickboard modeling
